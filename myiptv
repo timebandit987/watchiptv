@@ -1,50 +1,177 @@
-#EXTINF:-1,UK: RTE2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/458.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror HD
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/460.ts
-#EXTINF:-1,UK: MOVIES THRILLER
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/461.ts
-#EXTINF:-1,UK: MOVIES DRAMA
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/462.ts
-#EXTINF:-1,UK: MOVIES DISNEY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/463.ts
-#EXTINF:-1,UK: Sky MOVIES COMEDY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/464.ts
-#EXTINF:-1,UK: ID
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/465.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/466.ts
-#EXTINF:-1,UK: E!
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/468.ts
-#EXTINF:-1,UK: E4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/467.ts
-#EXTINF:-1,UK: DISNEY XD
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/469.ts
-#EXTINF:-1,UK: Animal Planet
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/457.ts
-#EXTINF:-1,UK: BBC 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/398.ts
-#EXTINF:-1,UK: BBC 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/399.ts
-#EXTINF:-1,UK: BBC 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/400.ts
-#EXTINF:-1,UK: ITV Be
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/392.ts
-#EXTINF:-1,UK: ITV 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/396.ts
-#EXTINF:-1,UK: ITV 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/395.ts
-#EXTINF:-1,UK: ITV 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/394.ts
-#EXTINF:-1,UK: ITV 4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/393.ts
-#EXTINF:-1,UK: Syfy
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/391.ts
-#EXTINF:-1,UK: Discovery Channel
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/397.ts
-#EXTINF:-1,UK: France 24
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/819.ts
-#EXTINF:-1,UK: Russia Today
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/921.ts
-#EXTINF:-1,UK: Russia Today Doc
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/922.ts
+#EXTINF:-1,==UK-CHANNEL==
+#EXTINF:-1,UK:Sky-Sport-1
+http://star.010e.net:8000/live/ok/ok/187.ts
+#EXTINF:-1,UK:Sky-Sport-2
+http://star.010e.net:8000/live/ok/ok/188.ts
+#EXTINF:-1,UK:Sky-Sport-3
+http://star.010e.net:8000/live/ok/ok/189.ts
+#EXTINF:-1,UK:Sky-Sport-4
+http://star.010e.net:8000/live/ok/ok/190.ts
+#EXTINF:-1,UK:Sky-Sport-5
+http://star.010e.net:8000/live/ok/ok/661.ts
+#EXTINF:-1,UK:Sky-Sport-F1
+http://star.010e.net:8000/live/ok/ok/191.ts
+#EXTINF:-1,UK:Sky-Sport-News
+http://star.010e.net:8000/live/ok/ok/669.ts
+#EXTINF:-1,UK:Sky-Sport-BoxOffice
+http://star.010e.net:8000/live/ok/ok/657.ts
+#EXTINF:-1,UK:Sky-Movies-Action
+http://star.010e.net:8000/live/ok/ok/234.ts
+#EXTINF:-1,UK:Sky-Movies-Family
+http://star.010e.net:8000/live/ok/ok/236.ts
+#EXTINF:-1,UK:Sky-Movies-Drama
+http://star.010e.net:8000/live/ok/ok/237.ts
+#EXTINF:-1,UK:Sky-Movies-Comedy
+http://star.010e.net:8000/live/ok/ok/235.ts
+#EXTINF:-1,UK:Sky-Movies-Premier
+http://star.010e.net:8000/live/ok/ok/233.ts
+#EXTINF:-1,UK:Sky-Movies-SCI-FI
+http://star.010e.net:8000/live/ok/ok/239.ts
+#EXTINF:-1,UK:Sky-Movies-Thriller
+http://star.010e.net:8000/live/ok/ok/1466.ts
+#EXTINF:-1,UK:Sky-Movies-ShowCase
+http://star.010e.net:8000/live/ok/ok/1467.ts
+#EXTINF:-1,UK:Sky-Movies-Select
+http://star.010e.net:8000/live/ok/ok/238.ts
+#EXTINF:-1,UK:Sky-Living
+http://star.010e.net:8000/live/ok/ok/623.ts
+#EXTINF:-1,UK:Sky-Atlantic
+http://star.010e.net:8000/live/ok/ok/624.ts
+#EXTINF:-1,UK:Sky-One
+http://star.010e.net:8000/live/ok/ok/619.ts
+#EXTINF:-1,UK:Sky-Arts
+http://star.010e.net:8000/live/ok/ok/621.ts
+#EXTINF:-1,UK:BT-Sport-1
+http://star.010e.net:8000/live/ok/ok/192.ts
+#EXTINF:-1,UK:BT-Sport-2
+http://star.010e.net:8000/live/ok/ok/193.ts
+#EXTINF:-1,UK:BT-Sport-Extra
+http://star.010e.net:8000/live/ok/ok/196.ts
+#EXTINF:-1,UK:BT-Sport-Espn
+http://star.010e.net:8000/live/ok/ok/1457.ts
+#EXTINF:-1,UK:BT-Sport-Europ
+http://star.010e.net:8000/live/ok/ok/247.ts
+#EXTINF:-1,UK:Chelsea-FC-HD
+http://star.010e.net:8000/live/ok/ok/279.ts
+#EXTINF:-1,UK:Premier-Sport
+http://star.010e.net:8000/live/ok/ok/195.ts
+#EXTINF:-1,UK:Euro-Sport1
+http://star.010e.net:8000/live/ok/ok/197.ts
+#EXTINF:-1,UK:Fox-Sport
+http://star.010e.net:8000/live/ok/ok/198.ts
+#EXTINF:-1,UK:Box-Nation
+http://star.010e.net:8000/live/ok/ok/636.ts
+#EXTINF:-1,UK:Eir-Sport
+http://star.010e.net:8000/live/ok/ok/634.ts
+#EXTINF:-1,UK:Motor-Tv
+http://star.010e.net:8000/live/ok/ok/1459.ts
+#EXTINF:-1,UK:Racing-uk
+http://star.010e.net:8000/live/ok/ok/199.ts
+#EXTINF:-1,UK:Setana-Sport
+http://star.010e.net:8000/live/ok/ok/194.ts
+#EXTINF:-1,UK:Movies4Men
+http://star.010e.net:8000/live/ok/ok/1461.ts
+#EXTINF:-1,UK:CBS-Action
+http://star.010e.net:8000/live/ok/ok/277.ts
+#EXTINF:-1,UK:Fox-En
+http://star.010e.net:8000/live/ok/ok/1455.ts
+#EXTINF:-1,UK:Channel-4
+http://star.010e.net:8000/live/ok/ok/639.ts
+#EXTINF:-1,UK:Channel-5
+http://star.010e.net:8000/live/ok/ok/638.ts
+#EXTINF:-1,UK:True-Cristmas
+http://star.010e.net:8000/live/ok/ok/288.ts
+#EXTINF:-1,UK:True-Cristmas+1
+http://star.010e.net:8000/live/ok/ok/386.ts
+#EXTINF:-1,UK:True-Entertiment+1
+http://star.010e.net:8000/live/ok/ok/1416.ts
+#EXTINF:-1,UK:Comedy-Central
+http://star.010e.net:8000/live/ok/ok/322.ts
+#EXTINF:-1,UK:More-4
+http://star.010e.net:8000/live/ok/ok/664.ts
+#EXTINF:-1,UK:Dmax-HD
+http://star.010e.net:8000/live/ok/ok/1460.ts
+#EXTINF:-1,UK:5-USA-TV
+http://star.010e.net:8000/live/ok/ok/383.ts
+#EXTINF:-1,UK:TLC-TV
+http://star.010e.net:8000/live/ok/ok/385.ts
+#EXTINF:-1,UK:E4-TV
+http://star.010e.net:8000/live/ok/ok/612.ts
+#EXTINF:-1,UK:ITV-1
+http://star.010e.net:8000/live/ok/ok/204.ts
+#EXTINF:-1,UK:ITV-2
+http://star.010e.net:8000/live/ok/ok/205.ts
+#EXTINF:-1,UK:ITV-3
+http://star.010e.net:8000/live/ok/ok/206.ts
+#EXTINF:-1,UK:ITV-4
+http://star.010e.net:8000/live/ok/ok/627.ts
+#EXTINF:-1,UK:&TV
+http://star.010e.net:8000/live/ok/ok/663.ts
+#EXTINF:-1,UK:RTE-One
+http://star.010e.net:8000/live/ok/ok/658.ts
+#EXTINF:-1,UK:RTE-Two
+http://star.010e.net:8000/live/ok/ok/659.ts
+#EXTINF:-1,UK:Gold-En
+http://star.010e.net:8000/live/ok/ok/1458.ts
+#EXTINF:-1,UK:Yesterday
+http://star.010e.net:8000/live/ok/ok/1462.ts
+#EXTINF:-1,UK:Utv-Irlanda
+http://star.010e.net:8000/live/ok/ok/622.ts
+#EXTINF:-1,UK:Eden+1
+http://star.010e.net:8000/live/ok/ok/254.ts
+#EXTINF:-1,UK:Tru-TV
+http://star.010e.net:8000/live/ok/ok/1464.ts
+#EXTINF:-1,UK:Home&TV
+http://star.010e.net:8000/live/ok/ok/1463.ts
+#EXTINF:-1,UK:BBC-One
+http://star.010e.net:8000/live/ok/ok/625.ts
+#EXTINF:-1,UK:BBC-Tow
+http://star.010e.net:8000/live/ok/ok/626.ts
+#EXTINF:-1,UK:BBC-Three
+http://star.010e.net:8000/live/ok/ok/641.ts
+#EXTINF:-1,UK:BBC-Four
+http://star.010e.net:8000/live/ok/ok/662.ts
+#EXTINF:-1,UK:BBC-News-En
+http://star.010e.net:8000/live/ok/ok/1453.ts
+#EXTINF:-1,UK:Bloomberg-TV
+http://star.010e.net:8000/live/ok/ok/630.ts
+#EXTINF:-1,UK:CNN-Europ
+http://star.010e.net:8000/live/ok/ok/384.ts
+#EXTINF:-1,UK:Sky-News
+http://star.010e.net:8000/live/ok/ok/635.ts
+#EXTINF:-1,UK:Nhk-News
+http://star.010e.net:8000/live/ok/ok/620.ts
+#EXTINF:-1,UK:Nick-Jr
+http://star.010e.net:8000/live/ok/ok/242.ts
+#EXTINF:-1,UK:Nick-Jr-Pe
+http://star.010e.net:8000/live/ok/ok/644.ts
+#EXTINF:-1,UK:Nick-Toons
+http://star.010e.net:8000/live/ok/ok/645.ts
+#EXTINF:-1,UK:Baby-TV
+http://star.010e.net:8000/live/ok/ok/718.ts
+#EXTINF:-1,UK:Diseny-Junior
+http://star.010e.net:8000/live/ok/ok/241.ts
+#EXTINF:-1,UK:Diseny-XD-EN
+http://star.010e.net:8000/live/ok/ok/240.ts
+#EXTINF:-1,UK:CartoonNetwork-EN
+http://star.010e.net:8000/live/ok/ok/243.ts
+#EXTINF:-1,UK:Discovery
+http://star.010e.net:8000/live/ok/ok/1454.ts
+#EXTINF:-1,UK:Discovery-Sci
+http://star.010e.net:8000/live/ok/ok/157.ts
+#EXTINF:-1,UK:National-Geo
+http://star.010e.net:8000/live/ok/ok/642.ts
+#EXTINF:-1,UK:National-Wild
+http://star.010e.net:8000/live/ok/ok/1456.ts
+#EXTINF:-1,UK:Animal-Planet
+http://star.010e.net:8000/live/ok/ok/643.ts
+#EXTINF:-1,UK:Movie4Men
+http://star.010e.net:8000/live/ok/ok/1888.ts
+#EXTINF:-1,UK:Peace-EN
+http://star.010e.net:8000/live/ok/ok/1901.ts
+#EXTINF:-1,UK:Peace-USA
+http://star.010e.net:8000/live/ok/ok/1900.ts
+#EXTINF:-1,UK:Peace-Asia
+http://star.010e.net:8000/live/ok/ok/1902.ts
+#EXTINF:-1,UK:Quest-En
+http://star.010e.net:8000/live/ok/ok/1889.ts
