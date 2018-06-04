@@ -1,177 +1,1350 @@
-#EXTINF:-1,==UK-CHANNEL==
-#EXTINF:-1,UK:Sky-Sport-1
-http://star.010e.net:8000/live/ok/ok/187.ts
-#EXTINF:-1,UK:Sky-Sport-2
-http://star.010e.net:8000/live/ok/ok/188.ts
-#EXTINF:-1,UK:Sky-Sport-3
-http://star.010e.net:8000/live/ok/ok/189.ts
-#EXTINF:-1,UK:Sky-Sport-4
-http://star.010e.net:8000/live/ok/ok/190.ts
-#EXTINF:-1,UK:Sky-Sport-5
-http://star.010e.net:8000/live/ok/ok/661.ts
-#EXTINF:-1,UK:Sky-Sport-F1
-http://star.010e.net:8000/live/ok/ok/191.ts
-#EXTINF:-1,UK:Sky-Sport-News
-http://star.010e.net:8000/live/ok/ok/669.ts
-#EXTINF:-1,UK:Sky-Sport-BoxOffice
-http://star.010e.net:8000/live/ok/ok/657.ts
-#EXTINF:-1,UK:Sky-Movies-Action
-http://star.010e.net:8000/live/ok/ok/234.ts
-#EXTINF:-1,UK:Sky-Movies-Family
-http://star.010e.net:8000/live/ok/ok/236.ts
-#EXTINF:-1,UK:Sky-Movies-Drama
-http://star.010e.net:8000/live/ok/ok/237.ts
-#EXTINF:-1,UK:Sky-Movies-Comedy
-http://star.010e.net:8000/live/ok/ok/235.ts
-#EXTINF:-1,UK:Sky-Movies-Premier
-http://star.010e.net:8000/live/ok/ok/233.ts
-#EXTINF:-1,UK:Sky-Movies-SCI-FI
-http://star.010e.net:8000/live/ok/ok/239.ts
-#EXTINF:-1,UK:Sky-Movies-Thriller
-http://star.010e.net:8000/live/ok/ok/1466.ts
-#EXTINF:-1,UK:Sky-Movies-ShowCase
-http://star.010e.net:8000/live/ok/ok/1467.ts
-#EXTINF:-1,UK:Sky-Movies-Select
-http://star.010e.net:8000/live/ok/ok/238.ts
-#EXTINF:-1,UK:Sky-Living
-http://star.010e.net:8000/live/ok/ok/623.ts
-#EXTINF:-1,UK:Sky-Atlantic
-http://star.010e.net:8000/live/ok/ok/624.ts
-#EXTINF:-1,UK:Sky-One
-http://star.010e.net:8000/live/ok/ok/619.ts
-#EXTINF:-1,UK:Sky-Arts
-http://star.010e.net:8000/live/ok/ok/621.ts
-#EXTINF:-1,UK:BT-Sport-1
-http://star.010e.net:8000/live/ok/ok/192.ts
-#EXTINF:-1,UK:BT-Sport-2
-http://star.010e.net:8000/live/ok/ok/193.ts
-#EXTINF:-1,UK:BT-Sport-Extra
-http://star.010e.net:8000/live/ok/ok/196.ts
-#EXTINF:-1,UK:BT-Sport-Espn
-http://star.010e.net:8000/live/ok/ok/1457.ts
-#EXTINF:-1,UK:BT-Sport-Europ
-http://star.010e.net:8000/live/ok/ok/247.ts
-#EXTINF:-1,UK:Chelsea-FC-HD
-http://star.010e.net:8000/live/ok/ok/279.ts
-#EXTINF:-1,UK:Premier-Sport
-http://star.010e.net:8000/live/ok/ok/195.ts
-#EXTINF:-1,UK:Euro-Sport1
-http://star.010e.net:8000/live/ok/ok/197.ts
-#EXTINF:-1,UK:Fox-Sport
-http://star.010e.net:8000/live/ok/ok/198.ts
-#EXTINF:-1,UK:Box-Nation
-http://star.010e.net:8000/live/ok/ok/636.ts
-#EXTINF:-1,UK:Eir-Sport
-http://star.010e.net:8000/live/ok/ok/634.ts
-#EXTINF:-1,UK:Motor-Tv
-http://star.010e.net:8000/live/ok/ok/1459.ts
-#EXTINF:-1,UK:Racing-uk
-http://star.010e.net:8000/live/ok/ok/199.ts
-#EXTINF:-1,UK:Setana-Sport
-http://star.010e.net:8000/live/ok/ok/194.ts
-#EXTINF:-1,UK:Movies4Men
-http://star.010e.net:8000/live/ok/ok/1461.ts
-#EXTINF:-1,UK:CBS-Action
-http://star.010e.net:8000/live/ok/ok/277.ts
-#EXTINF:-1,UK:Fox-En
-http://star.010e.net:8000/live/ok/ok/1455.ts
-#EXTINF:-1,UK:Channel-4
-http://star.010e.net:8000/live/ok/ok/639.ts
-#EXTINF:-1,UK:Channel-5
-http://star.010e.net:8000/live/ok/ok/638.ts
-#EXTINF:-1,UK:True-Cristmas
-http://star.010e.net:8000/live/ok/ok/288.ts
-#EXTINF:-1,UK:True-Cristmas+1
-http://star.010e.net:8000/live/ok/ok/386.ts
-#EXTINF:-1,UK:True-Entertiment+1
-http://star.010e.net:8000/live/ok/ok/1416.ts
-#EXTINF:-1,UK:Comedy-Central
-http://star.010e.net:8000/live/ok/ok/322.ts
-#EXTINF:-1,UK:More-4
-http://star.010e.net:8000/live/ok/ok/664.ts
-#EXTINF:-1,UK:Dmax-HD
-http://star.010e.net:8000/live/ok/ok/1460.ts
-#EXTINF:-1,UK:5-USA-TV
-http://star.010e.net:8000/live/ok/ok/383.ts
-#EXTINF:-1,UK:TLC-TV
-http://star.010e.net:8000/live/ok/ok/385.ts
-#EXTINF:-1,UK:E4-TV
-http://star.010e.net:8000/live/ok/ok/612.ts
-#EXTINF:-1,UK:ITV-1
-http://star.010e.net:8000/live/ok/ok/204.ts
-#EXTINF:-1,UK:ITV-2
-http://star.010e.net:8000/live/ok/ok/205.ts
-#EXTINF:-1,UK:ITV-3
-http://star.010e.net:8000/live/ok/ok/206.ts
-#EXTINF:-1,UK:ITV-4
-http://star.010e.net:8000/live/ok/ok/627.ts
-#EXTINF:-1,UK:&TV
-http://star.010e.net:8000/live/ok/ok/663.ts
-#EXTINF:-1,UK:RTE-One
-http://star.010e.net:8000/live/ok/ok/658.ts
-#EXTINF:-1,UK:RTE-Two
-http://star.010e.net:8000/live/ok/ok/659.ts
-#EXTINF:-1,UK:Gold-En
-http://star.010e.net:8000/live/ok/ok/1458.ts
-#EXTINF:-1,UK:Yesterday
-http://star.010e.net:8000/live/ok/ok/1462.ts
-#EXTINF:-1,UK:Utv-Irlanda
-http://star.010e.net:8000/live/ok/ok/622.ts
-#EXTINF:-1,UK:Eden+1
-http://star.010e.net:8000/live/ok/ok/254.ts
-#EXTINF:-1,UK:Tru-TV
-http://star.010e.net:8000/live/ok/ok/1464.ts
-#EXTINF:-1,UK:Home&TV
-http://star.010e.net:8000/live/ok/ok/1463.ts
-#EXTINF:-1,UK:BBC-One
-http://star.010e.net:8000/live/ok/ok/625.ts
-#EXTINF:-1,UK:BBC-Tow
-http://star.010e.net:8000/live/ok/ok/626.ts
-#EXTINF:-1,UK:BBC-Three
-http://star.010e.net:8000/live/ok/ok/641.ts
-#EXTINF:-1,UK:BBC-Four
-http://star.010e.net:8000/live/ok/ok/662.ts
-#EXTINF:-1,UK:BBC-News-En
-http://star.010e.net:8000/live/ok/ok/1453.ts
-#EXTINF:-1,UK:Bloomberg-TV
-http://star.010e.net:8000/live/ok/ok/630.ts
-#EXTINF:-1,UK:CNN-Europ
-http://star.010e.net:8000/live/ok/ok/384.ts
-#EXTINF:-1,UK:Sky-News
-http://star.010e.net:8000/live/ok/ok/635.ts
-#EXTINF:-1,UK:Nhk-News
-http://star.010e.net:8000/live/ok/ok/620.ts
-#EXTINF:-1,UK:Nick-Jr
-http://star.010e.net:8000/live/ok/ok/242.ts
-#EXTINF:-1,UK:Nick-Jr-Pe
-http://star.010e.net:8000/live/ok/ok/644.ts
-#EXTINF:-1,UK:Nick-Toons
-http://star.010e.net:8000/live/ok/ok/645.ts
-#EXTINF:-1,UK:Baby-TV
-http://star.010e.net:8000/live/ok/ok/718.ts
-#EXTINF:-1,UK:Diseny-Junior
-http://star.010e.net:8000/live/ok/ok/241.ts
-#EXTINF:-1,UK:Diseny-XD-EN
-http://star.010e.net:8000/live/ok/ok/240.ts
-#EXTINF:-1,UK:CartoonNetwork-EN
-http://star.010e.net:8000/live/ok/ok/243.ts
-#EXTINF:-1,UK:Discovery
-http://star.010e.net:8000/live/ok/ok/1454.ts
-#EXTINF:-1,UK:Discovery-Sci
-http://star.010e.net:8000/live/ok/ok/157.ts
-#EXTINF:-1,UK:National-Geo
-http://star.010e.net:8000/live/ok/ok/642.ts
-#EXTINF:-1,UK:National-Wild
-http://star.010e.net:8000/live/ok/ok/1456.ts
-#EXTINF:-1,UK:Animal-Planet
-http://star.010e.net:8000/live/ok/ok/643.ts
-#EXTINF:-1,UK:Movie4Men
-http://star.010e.net:8000/live/ok/ok/1888.ts
-#EXTINF:-1,UK:Peace-EN
-http://star.010e.net:8000/live/ok/ok/1901.ts
-#EXTINF:-1,UK:Peace-USA
-http://star.010e.net:8000/live/ok/ok/1900.ts
-#EXTINF:-1,UK:Peace-Asia
-http://star.010e.net:8000/live/ok/ok/1902.ts
-#EXTINF:-1,UK:Quest-En
-http://star.010e.net:8000/live/ok/ok/1889.ts
+#EXTINF:-1,A&E HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96380.ts
+#EXTINF:-1,A&E SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96379.ts
+#EXTINF:-1,AMC HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96378.ts
+#EXTINF:-1,AMC SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96377.ts
+#EXTINF:-1,ANIMAL PLANET FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96424.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96423.ts
+#EXTINF:-1,ANIMAL PLANET SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96422.ts
+#EXTINF:-1,Anitta Meu Lugar
+http://198.27.80.131:25461/live/adolfo/adolfo/96722.ts
+#EXTINF:-1,Anitta Planeta Atlantida
+http://198.27.80.131:25461/live/adolfo/adolfo/96709.ts
+#EXTINF:-1,ARTE 1 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96436.ts
+#EXTINF:-1,AXN HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96382.ts
+#EXTINF:-1,AXN SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96381.ts
+#EXTINF:-1,BABY TV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96658.ts
+#EXTINF:-1,Backstreet Boys
+http://198.27.80.131:25461/live/adolfo/adolfo/96663.ts
+#EXTINF:-1,BAND  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96552.ts
+#EXTINF:-1,BAND HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96553.ts
+#EXTINF:-1,BAND NEWS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96505.ts
+#EXTINF:-1,BAND SPORTS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96503.ts
+#EXTINF:-1,BAND SPORTS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96502.ts
+#EXTINF:-1,BEN 10 24HRS
+http://198.27.80.131:25461/live/adolfo/adolfo/96526.ts
+#EXTINF:-1,Beyonce
+http://198.27.80.131:25461/live/adolfo/adolfo/96662.ts
+#EXTINF:-1,BIS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96464.ts
+#EXTINF:-1,BOB ESPONJA
+http://198.27.80.131:25461/live/adolfo/adolfo/96525.ts
+#EXTINF:-1,Bon Jovi – Stadium Concert
+http://198.27.80.131:25461/live/adolfo/adolfo/96723.ts
+#EXTINF:-1,BOOMERANG HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96656.ts
+#EXTINF:-1,BOOMERANG SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96657.ts
+#EXTINF:-1,BOSTON
+http://198.27.80.131:25461/live/adolfo/adolfo/96664.ts
+#EXTINF:-1,BREAD
+http://198.27.80.131:25461/live/adolfo/adolfo/96665.ts
+#EXTINF:-1,CANAL BRASIL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96551.ts
+#EXTINF:-1,CANAL DO BOI SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96550.ts
+#EXTINF:-1,CANAL FUTEBOL
+http://198.27.80.131:25461/live/adolfo/adolfo/96501.ts
+#EXTINF:-1,CANAL SONY HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96427.ts
+#EXTINF:-1,CANAL SONY SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96426.ts
+#EXTINF:-1,CANCAO NOVA HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96385.ts
+#EXTINF:-1,CANCAO NOVA SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96386.ts
+#EXTINF:-1,CARL CARLTON
+http://198.27.80.131:25461/live/adolfo/adolfo/96666.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96655.ts
+#EXTINF:-1,CARTOON NETWORK SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96654.ts
+#EXTINF:-1,CAVALEIROS ZODIACO 24HRS
+http://198.27.80.131:25461/live/adolfo/adolfo/96524.ts
+#EXTINF:-1,CHAVES
+http://198.27.80.131:25461/live/adolfo/adolfo/96513.ts
+#EXTINF:-1,CHAVES DESENHO
+http://198.27.80.131:25461/live/adolfo/adolfo/96516.ts
+#EXTINF:-1,CHIC
+http://198.27.80.131:25461/live/adolfo/adolfo/96667.ts
+#EXTINF:-1,CHUMBAWAMBA
+http://198.27.80.131:25461/live/adolfo/adolfo/96668.ts
+#EXTINF:-1,CINEMAX HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96376.ts
+#EXTINF:-1,CINEMAX SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96375.ts
+#EXTINF:-1,COMBATE FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96498.ts
+#EXTINF:-1,COMBATE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96500.ts
+#EXTINF:-1,COMBATE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96499.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96463.ts
+#EXTINF:-1,COMEDY CENTRAL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96462.ts
+#EXTINF:-1,COOLIO
+http://198.27.80.131:25461/live/adolfo/adolfo/96669.ts
+#EXTINF:-1,Cristiano Araújo In The Cities Ao Vivo em Cuiabá
+http://198.27.80.131:25461/live/adolfo/adolfo/96721.ts
+#EXTINF:-1,CURTA! SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96425.ts
+#EXTINF:-1,DEMIS ROUSSOS
+http://198.27.80.131:25461/live/adolfo/adolfo/96670.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96421.ts
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96420.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96419.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96418.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96417.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96416.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96415.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96414.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96653.ts
+#EXTINF:-1,DISCOVERY KIDS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96652.ts
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96413.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96412.ts
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96411.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96410.ts
+#EXTINF:-1,DISCOVERY THEATER SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96409.ts
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96408.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96407.ts
+#EXTINF:-1,DISCOVERY TURBO SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96406.ts
+#EXTINF:-1,DISCOVERY WORLD  HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96405.ts
+#EXTINF:-1,DISCOVERY WORLD SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96404.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96651.ts
+#EXTINF:-1,DISNEY CHANNEL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96650.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96649.ts
+#EXTINF:-1,DISNEY JUNIOR SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96648.ts
+#EXTINF:-1,DISNEY XD HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96647.ts
+#EXTINF:-1,DISNEY XD SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96646.ts
+#EXTINF:-1,Dois Homens e Meio
+http://198.27.80.131:25461/live/adolfo/adolfo/96521.ts
+#EXTINF:-1,DONNA SUMMER 2
+http://198.27.80.131:25461/live/adolfo/adolfo/96671.ts
+#EXTINF:-1,DOOBIE BROTHERS
+http://198.27.80.131:25461/live/adolfo/adolfo/96672.ts
+#EXTINF:-1,DRAGON BALL
+http://198.27.80.131:25461/live/adolfo/adolfo/96523.ts
+#EXTINF:-1,DRAGON BALL SUPER
+http://198.27.80.131:25461/live/adolfo/adolfo/96522.ts
+#EXTINF:-1,E! HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96461.ts
+#EXTINF:-1,E! SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96460.ts
+#EXTINF:-1,EI MAXX 2 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96494.ts
+#EXTINF:-1,EI MAXX SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96496.ts
+#EXTINF:-1,ESPN   HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96493.ts
+#EXTINF:-1,ESPN   SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96492.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96491.ts
+#EXTINF:-1,ESPN BRASIL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96490.ts
+#EXTINF:-1,ESPN HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96489.ts
+#EXTINF:-1,ESPN SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96488.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2  HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96495.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96465.ts
+#EXTINF:-1,ESPORTE INTERATIVO FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96466.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96497.ts
+#EXTINF:-1,EUROPE
+http://198.27.80.131:25461/live/adolfo/adolfo/96673.ts
+#EXTINF:-1,EUROSPORT
+http://198.27.80.131:25461/live/adolfo/adolfo/96487.ts
+#EXTINF:-1,FISH TV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96459.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96458.ts
+#EXTINF:-1,FOOD NETWORK SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96457.ts
+#EXTINF:-1,FOX  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96372.ts
+#EXTINF:-1,FOX FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96374.ts
+#EXTINF:-1,FOX HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96373.ts
+#EXTINF:-1,FOX LIFE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96371.ts
+#EXTINF:-1,FOX LIFE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96370.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96369.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96368.ts
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96467.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96484.ts
+#EXTINF:-1,FOX SPORTS 2 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96483.ts
+#EXTINF:-1,FOX SPORTS FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96468.ts
+#EXTINF:-1,FOX SPORTS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96486.ts
+#EXTINF:-1,FOX SPORTS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96485.ts
+#EXTINF:-1,FRANKIE VALLI
+http://198.27.80.131:25461/live/adolfo/adolfo/96674.ts
+#EXTINF:-1,FUTURA
+http://198.27.80.131:25461/live/adolfo/adolfo/96549.ts
+#EXTINF:-1,FX HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96367.ts
+#EXTINF:-1,FX SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96366.ts
+#EXTINF:-1,Galinha Pintadinha
+http://198.27.80.131:25461/live/adolfo/adolfo/96512.ts
+#EXTINF:-1,GAZETA SP FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96548.ts
+#EXTINF:-1,GAZETA SP HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96547.ts
+#EXTINF:-1,GAZETA SP SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96546.ts
+#EXTINF:-1,GILBERT SULLIVAN
+http://198.27.80.131:25461/live/adolfo/adolfo/96675.ts
+#EXTINF:-1,GLOBO AM SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96568.ts
+#EXTINF:-1,GLOBO BRASILIA FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96584.ts
+#EXTINF:-1,GLOBO BRASILIA HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96585.ts
+#EXTINF:-1,GLOBO BRASILIA SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96583.ts
+#EXTINF:-1,GLOBO CAMPINAS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96565.ts
+#EXTINF:-1,GLOBO EPTV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96579.ts
+#EXTINF:-1,GLOBO FORTALEZA SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96564.ts
+#EXTINF:-1,GLOBO MINAS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96582.ts
+#EXTINF:-1,GLOBO MT SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96562.ts
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96508.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96507.ts
+#EXTINF:-1,GLOBO NEWS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96506.ts
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96576.ts
+#EXTINF:-1,GLOBO NORDESTE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96577.ts
+#EXTINF:-1,GLOBO PARANA  FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96574.ts
+#EXTINF:-1,GLOBO PARANA  HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96575.ts
+#EXTINF:-1,GLOBO PORTUGAL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96586.ts
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96556.ts
+#EXTINF:-1,GLOBO RIBEIRAO PRETO SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96561.ts
+#EXTINF:-1,GLOBO RJ HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96573.ts
+#EXTINF:-1,GLOBO RJ SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96572.ts
+#EXTINF:-1,GLOBO RN SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96563.ts
+#EXTINF:-1,GLOBO SAO JOSE DOS CAMPOS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96560.ts
+#EXTINF:-1,GLOBO SP FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96570.ts
+#EXTINF:-1,GLOBO SP HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96571.ts
+#EXTINF:-1,GLOBO SP SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96569.ts
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96580.ts
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96581.ts
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96578.ts
+#EXTINF:-1,GLOBO TV GAZETA ES FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96557.ts
+#EXTINF:-1,GLOBO TV GAZETA ES HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96558.ts
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96566.ts
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96567.ts
+#EXTINF:-1,GLOBOSAT HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96555.ts
+#EXTINF:-1,GLOBOSAT SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96554.ts
+#EXTINF:-1,GLOOB  HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96645.ts
+#EXTINF:-1,GLOOB  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96644.ts
+#EXTINF:-1,GNT HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96365.ts
+#EXTINF:-1,GNT SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96364.ts
+#EXTINF:-1,GRAFITE
+http://198.27.80.131:25461/live/adolfo/adolfo/96676.ts
+#EXTINF:-1,GREG KIHN
+http://198.27.80.131:25461/live/adolfo/adolfo/96677.ts
+#EXTINF:-1,GREGORY ABBOTT
+http://198.27.80.131:25461/live/adolfo/adolfo/96678.ts
+#EXTINF:-1,Gusttavo Lima 50/50
+http://198.27.80.131:25461/live/adolfo/adolfo/96720.ts
+#EXTINF:-1,H2 FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96455.ts
+#EXTINF:-1,H2 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96454.ts
+#EXTINF:-1,H2 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96453.ts
+#EXTINF:-1,HBO 2 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96363.ts
+#EXTINF:-1,HBO 2 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96362.ts
+#EXTINF:-1,HBO FAMILY  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96360.ts
+#EXTINF:-1,HBO FAMILY HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96361.ts
+#EXTINF:-1,HBO HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96359.ts
+#EXTINF:-1,HBO PLUS E SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96357.ts
+#EXTINF:-1,HBO PLUS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96356.ts
+#EXTINF:-1,HBO PLUS PANREGIONAL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96354.ts
+#EXTINF:-1,HBO PLUS SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96355.ts
+#EXTINF:-1,HBO SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96358.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96353.ts
+#EXTINF:-1,HBO SIGNATURE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96352.ts
+#EXTINF:-1,Henrique e Juliano Ao Vivo em Brasília
+http://198.27.80.131:25461/live/adolfo/adolfo/96719.ts
+#EXTINF:-1,HERMANS HERMITS
+http://198.27.80.131:25461/live/adolfo/adolfo/96679.ts
+#EXTINF:-1,HISTORY CHANNEL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96401.ts
+#EXTINF:-1,HISTORY FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96403.ts
+#EXTINF:-1,HOT MUSIC SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96456.ts
+#EXTINF:-1,HUEY LEWIS
+http://198.27.80.131:25461/live/adolfo/adolfo/96680.ts
+#EXTINF:-1,HUMAN LEAGUE
+http://198.27.80.131:25461/live/adolfo/adolfo/96681.ts
+#EXTINF:-1,I-SAT SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96400.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96399.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96398.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96397.ts
+#EXTINF:-1,J.GEILS BAND
+http://198.27.80.131:25461/live/adolfo/adolfo/96682.ts
+#EXTINF:-1,JAMES TAYLOR
+http://198.27.80.131:25461/live/adolfo/adolfo/96683.ts
+#EXTINF:-1,JEANETT
+http://198.27.80.131:25461/live/adolfo/adolfo/96684.ts
+#EXTINF:-1,JULES SHEAR
+http://198.27.80.131:25461/live/adolfo/adolfo/96685.ts
+#EXTINF:-1,Katy Perry The Prismatic World
+http://198.27.80.131:25461/live/adolfo/adolfo/96718.ts
+#EXTINF:-1,Kc AND THE SUNSHINE BAND
+http://198.27.80.131:25461/live/adolfo/adolfo/96686.ts
+#EXTINF:-1,LADY GAGA
+http://198.27.80.131:25461/live/adolfo/adolfo/96687.ts
+#EXTINF:-1,LAURA BRANIGAN
+http://198.27.80.131:25461/live/adolfo/adolfo/96688.ts
+#EXTINF:-1,Leandro e Eduardo Costa Cabaré
+http://198.27.80.131:25461/live/adolfo/adolfo/96717.ts
+#EXTINF:-1,Led Zeppelin The Song Remains The Same  Film  1976
+http://198.27.80.131:25461/live/adolfo/adolfo/96706.ts
+#EXTINF:-1,LIFETIME HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96452.ts
+#EXTINF:-1,LIFETIME SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96451.ts
+#EXTINF:-1,LOS DEL RIO
+http://198.27.80.131:25461/live/adolfo/adolfo/96689.ts
+#EXTINF:-1,Luan Santana O Nosso Tempo é Hoje ao Vivo
+http://198.27.80.131:25461/live/adolfo/adolfo/96716.ts
+#EXTINF:-1,Maiara e Maraisa Ao Vivo em Goiânia
+http://198.27.80.131:25461/live/adolfo/adolfo/96715.ts
+#EXTINF:-1,Mamonas Para Sempre
+http://198.27.80.131:25461/live/adolfo/adolfo/96710.ts
+#EXTINF:-1,MARCO LUQUE TAMO JUNTO
+http://198.27.80.131:25461/live/adolfo/adolfo/96711.ts
+#EXTINF:-1,MAX HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96351.ts
+#EXTINF:-1,MAX PRIME E SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96349.ts
+#EXTINF:-1,MAX PRIME HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96348.ts
+#EXTINF:-1,MAX SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96350.ts
+#EXTINF:-1,MAX UP HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96347.ts
+#EXTINF:-1,MAX UP SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96346.ts
+#EXTINF:-1,MEGAPIX  FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96345.ts
+#EXTINF:-1,MEGAPIX HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96344.ts
+#EXTINF:-1,MEGAPIX SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96343.ts
+#EXTINF:-1,MTV DANCE
+http://198.27.80.131:25461/live/adolfo/adolfo/96450.ts
+#EXTINF:-1,MTV HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96449.ts
+#EXTINF:-1,MTV PORTUGAL
+http://198.27.80.131:25461/live/adolfo/adolfo/96447.ts
+#EXTINF:-1,MTV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96448.ts
+#EXTINF:-1,MULTISHOW FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96446.ts
+#EXTINF:-1,MULTISHOW HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96445.ts
+#EXTINF:-1,MULTISHOW SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96444.ts
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96443.ts
+#EXTINF:-1,REDE RECORD HD SP
+http://198.27.80.131:25461/live/adolfo/adolfo/96542.ts
+#EXTINF:-1,REDE RECORD USA
+http://198.27.80.131:25461/live/adolfo/adolfo/96538.ts
+#EXTINF:-1,REDE TV FHD
+http://198.27.80.131:25461/live/adolfo/adolfo/96536.ts
+#EXTINF:-1,REDE TV HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96535.ts
+#EXTINF:-1,REDE TV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96534.ts
+#EXTINF:-1,RICK ASTLEY
+http://198.27.80.131:25461/live/adolfo/adolfo/96695.ts
+#EXTINF:-1,RITA COOLIDGE
+http://198.27.80.131:25461/live/adolfo/adolfo/96696.ts
+#EXTINF:-1,Rude 66 live at Monox Glasgow
+http://198.27.80.131:25461/live/adolfo/adolfo/96661.ts
+#EXTINF:-1,S STEVENS
+http://198.27.80.131:25461/live/adolfo/adolfo/96698.ts
+#EXTINF:-1,SAMANTHA SANG AND BEE GEES
+http://198.27.80.131:25461/live/adolfo/adolfo/96697.ts
+#EXTINF:-1,SBT  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96530.ts
+#EXTINF:-1,SBT HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96531.ts
+#EXTINF:-1,SBT MACEIO HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96532.ts
+#EXTINF:-1,SBT PE Interior SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96533.ts
+#EXTINF:-1,Scooby-Doo
+http://198.27.80.131:25461/live/adolfo/adolfo/96515.ts
+#EXTINF:-1,South Park
+http://198.27.80.131:25461/live/adolfo/adolfo/96509.ts
+#EXTINF:-1,SPACE HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96342.ts
+#EXTINF:-1,SPACE SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96341.ts
+#EXTINF:-1,SPORT TV 1 HD – PT
+http://198.27.80.131:25461/live/adolfo/adolfo/96481.ts
+#EXTINF:-1,SPORT TV 2 HD – PT
+http://198.27.80.131:25461/live/adolfo/adolfo/96480.ts
+#EXTINF:-1,SPORT TV 3 HD – PT
+http://198.27.80.131:25461/live/adolfo/adolfo/96479.ts
+#EXTINF:-1,SPORT TV 4 HD – PT
+http://198.27.80.131:25461/live/adolfo/adolfo/96478.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96470.ts
+#EXTINF:-1,SPORTV 2 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96475.ts
+#EXTINF:-1,SPORTV 2 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96474.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96469.ts
+#EXTINF:-1,SPORTV 3 HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96473.ts
+#EXTINF:-1,SPORTV 3 SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96472.ts
+#EXTINF:-1,SPORTV FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96471.ts
+#EXTINF:-1,SPORTV HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96477.ts
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96326.ts
+#EXTINF:-1,Sugar Experiment Station Live at Monox
+http://198.27.80.131:25461/live/adolfo/adolfo/96660.ts
+#EXTINF:-1,SUNDANCE TV SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96438.ts
+#EXTINF:-1,SYFY HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96339.ts
+#EXTINF:-1,TBS HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96338.ts
+#EXTINF:-1,TELECINE ACTION  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96637.ts
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96625.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96638.ts
+#EXTINF:-1,TELECINE CULT  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96635.ts
+#EXTINF:-1,TELECINE CULT FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96623.ts
+#EXTINF:-1,TELECINE CULT HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96636.ts
+#EXTINF:-1,TELECINE FUN FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96624.ts
+#EXTINF:-1,TELECINE FUN HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96634.ts
+#EXTINF:-1,TELECINE FUN SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96633.ts
+#EXTINF:-1,TELECINE PIPOCA  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96631.ts
+#EXTINF:-1,TELECINE PIPOCA FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96622.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96632.ts
+#EXTINF:-1,TELECINE PREMIUM  SD
+http://198.27.80.131:25461/live/adolfo/adolfo/96629.ts
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96626.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://198.27.80.131:25461/live/adolfo/adolfo/96630.ts
+#EXTINF:-1,CA: A&E HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13586.ts
+#EXTINF:-1,CA: ABC Spark HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13585.ts
+#EXTINF:-1,CA: AHC
+http://212.8.250.12:25461/live/Orestes/Orestes/13584.ts
+#EXTINF:-1,CA: AMC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13583.ts
+#EXTINF:-1,CA: Animal planet
+http://212.8.250.12:25461/live/Orestes/Orestes/13582.ts
+#EXTINF:-1,CA: Bbc Kids
+http://212.8.250.12:25461/live/Orestes/Orestes/13581.ts
+#EXTINF:-1,CA: beIN Sports FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13580.ts
+#EXTINF:-1,CA: BRAVO HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13579.ts
+#EXTINF:-1,CA: CBC Toronto HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13578.ts
+#EXTINF:-1,CA: Chet Tv
+http://212.8.250.12:25461/live/Orestes/Orestes/13577.ts
+#EXTINF:-1,CA: CI
+http://212.8.250.12:25461/live/Orestes/Orestes/13576.ts
+#EXTINF:-1,CA: CKWS
+http://212.8.250.12:25461/live/Orestes/Orestes/13575.ts
+#EXTINF:-1,CA: CNN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13574.ts
+#EXTINF:-1,CA: Comedy
+http://212.8.250.12:25461/live/Orestes/Orestes/13573.ts
+#EXTINF:-1,CA: COMEDY GOLD HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13572.ts
+#EXTINF:-1,CA: Comedy West
+http://212.8.250.12:25461/live/Orestes/Orestes/13571.ts
+#EXTINF:-1,CA: Cottage Tv Life
+http://212.8.250.12:25461/live/Orestes/Orestes/13570.ts
+#EXTINF:-1,CA: CP24 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13569.ts
+#EXTINF:-1,CA: CTV HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13568.ts
+#EXTINF:-1,CA: Discovery Channel
+http://212.8.250.12:25461/live/Orestes/Orestes/13567.ts
+#EXTINF:-1,CA: Discovery Science
+http://212.8.250.12:25461/live/Orestes/Orestes/13566.ts
+#EXTINF:-1,CA: Discovery Velocity HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13565.ts
+#EXTINF:-1,CA: Disney
+http://212.8.250.12:25461/live/Orestes/Orestes/13564.ts
+#EXTINF:-1,CA: Disney Jnr
+http://212.8.250.12:25461/live/Orestes/Orestes/13563.ts
+#EXTINF:-1,CA: DISNEY JR HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13562.ts
+#EXTINF:-1,CA: Documentary
+http://212.8.250.12:25461/live/Orestes/Orestes/13561.ts
+#EXTINF:-1,CA: Family Junior
+http://212.8.250.12:25461/live/Orestes/Orestes/13560.ts
+#EXTINF:-1,CA: Family West
+http://212.8.250.12:25461/live/Orestes/Orestes/13559.ts
+#EXTINF:-1,CA: Fight network
+http://212.8.250.12:25461/live/Orestes/Orestes/13558.ts
+#EXTINF:-1,CA: Food Network
+http://212.8.250.12:25461/live/Orestes/Orestes/13557.ts
+#EXTINF:-1,CA: FOX NEWS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13556.ts
+#EXTINF:-1,CA: FOX WEST
+http://212.8.250.12:25461/live/Orestes/Orestes/13555.ts
+#EXTINF:-1,CA: G4
+http://212.8.250.12:25461/live/Orestes/Orestes/13554.ts
+#EXTINF:-1,CA: Game Tv
+http://212.8.250.12:25461/live/Orestes/Orestes/13553.ts
+#EXTINF:-1,CA: HBO 1
+http://212.8.250.12:25461/live/Orestes/Orestes/13552.ts
+#EXTINF:-1,CA: HBO 2
+http://212.8.250.12:25461/live/Orestes/Orestes/13551.ts
+#EXTINF:-1,CA: HGTV HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13550.ts
+#EXTINF:-1,CA: History
+http://212.8.250.12:25461/live/Orestes/Orestes/13549.ts
+#EXTINF:-1,CA: HLN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13548.ts
+#EXTINF:-1,CA: Leafs Tv
+http://212.8.250.12:25461/live/Orestes/Orestes/13547.ts
+#EXTINF:-1,CA: Lifetime HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13546.ts
+#EXTINF:-1,CA: MSNBC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13545.ts
+#EXTINF:-1,CA: OWN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13544.ts
+#EXTINF:-1,CA: PBS WEST
+http://212.8.250.12:25461/live/Orestes/Orestes/13543.ts
+#EXTINF:-1,CA: PEACH TREE HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13542.ts
+#EXTINF:-1,CA: Peach Tree Tv
+http://212.8.250.12:25461/live/Orestes/Orestes/13541.ts
+#EXTINF:-1,CA: Showtime East
+http://212.8.250.12:25461/live/Orestes/Orestes/13540.ts
+#EXTINF:-1,CA: Slice
+http://212.8.250.12:25461/live/Orestes/Orestes/13539.ts
+#EXTINF:-1,CA: SN WEST HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13538.ts
+#EXTINF:-1,CA: SNW HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13537.ts
+#EXTINF:-1,CA: Space
+http://212.8.250.12:25461/live/Orestes/Orestes/13536.ts
+#EXTINF:-1,CA: Spike
+http://212.8.250.12:25461/live/Orestes/Orestes/13535.ts
+#EXTINF:-1,CA: SPORTS NET EAST HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13534.ts
+#EXTINF:-1,CA: SportsNet 360
+http://212.8.250.12:25461/live/Orestes/Orestes/13533.ts
+#EXTINF:-1,CA: SportsNet East
+http://212.8.250.12:25461/live/Orestes/Orestes/13532.ts
+#EXTINF:-1,CA: SPORTSNET ONE
+http://212.8.250.12:25461/live/Orestes/Orestes/13531.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://212.8.250.12:25461/live/Orestes/Orestes/13530.ts
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://212.8.250.12:25461/live/Orestes/Orestes/13529.ts
+#EXTINF:-1,CA: SPORTSNET WEST
+http://212.8.250.12:25461/live/Orestes/Orestes/13528.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://212.8.250.12:25461/live/Orestes/Orestes/13527.ts
+#EXTINF:-1,CA: Super Channel Ginx
+http://212.8.250.12:25461/live/Orestes/Orestes/13526.ts
+#EXTINF:-1,CA: Super Channel Vault
+http://212.8.250.12:25461/live/Orestes/Orestes/13525.ts
+#EXTINF:-1,CA: SUPER ECRAN 1
+http://212.8.250.12:25461/live/Orestes/Orestes/13524.ts
+#EXTINF:-1,CA: Super Ecran 1  local
+http://212.8.250.12:25461/live/Orestes/Orestes/13523.ts
+#EXTINF:-1,CA: SUPER ECRAN 2
+http://212.8.250.12:25461/live/Orestes/Orestes/13522.ts
+#EXTINF:-1,CA: Super Ecran 2  local
+http://212.8.250.12:25461/live/Orestes/Orestes/13521.ts
+#EXTINF:-1,CA: SUPER ECRAN 3
+http://212.8.250.12:25461/live/Orestes/Orestes/13520.ts
+#EXTINF:-1,CA: SUPER ECRAN 4
+http://212.8.250.12:25461/live/Orestes/Orestes/13519.ts
+#EXTINF:-1,CA: The Movie Network 1 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13518.ts
+#EXTINF:-1,CA: The Movie Network 2 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13517.ts
+#EXTINF:-1,CA: The Movie Network 2 West
+http://212.8.250.12:25461/live/Orestes/Orestes/13516.ts
+#EXTINF:-1,CA: The Movie Network 3 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13515.ts
+#EXTINF:-1,CA: The Movie Network 3 West
+http://212.8.250.12:25461/live/Orestes/Orestes/13514.ts
+#EXTINF:-1,CA: The Movie Network 4 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13513.ts
+#EXTINF:-1,CA: The Movie Network Encore 1 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13512.ts
+#EXTINF:-1,CA: The Movie Network Encore 1 West
+http://212.8.250.12:25461/live/Orestes/Orestes/13511.ts
+#EXTINF:-1,CA: The Movie Network Encore 2 East
+http://212.8.250.12:25461/live/Orestes/Orestes/13510.ts
+#EXTINF:-1,CA: TREEHOUSE HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13506.ts
+#EXTINF:-1,CA: Treehouse Tv
+http://212.8.250.12:25461/live/Orestes/Orestes/13505.ts
+#EXTINF:-1,CA: TSN 1 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13504.ts
+#EXTINF:-1,CA: TSN 2 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13503.ts
+#EXTINF:-1,CA: TSN 2 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13502.ts
+#EXTINF:-1,CA: TSN 3 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13501.ts
+#EXTINF:-1,CA: TSN 3 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13500.ts
+#EXTINF:-1,CA: TSN 4 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13499.ts
+#EXTINF:-1,CA: TSN 5 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13498.ts
+#EXTINF:-1,CA: TSN 5 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/13497.ts
+#EXTINF:-1,CA: TSN FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/13496.ts
+#EXTINF:-1,CA: W
+http://212.8.250.12:25461/live/Orestes/Orestes/13495.ts
+#EXTINF:-1,CA: World Fishing Network
+http://212.8.250.12:25461/live/Orestes/Orestes/13494.ts
+#EXTINF:-1,USA: A&E HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19183.ts
+#EXTINF:-1,USA: ABC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19182.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19181.ts
+#EXTINF:-1,USA: AFN Movie
+http://212.8.250.12:25461/live/Orestes/Orestes/19180.ts
+#EXTINF:-1,USA: AFN Sports
+http://212.8.250.12:25461/live/Orestes/Orestes/19179.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19178.ts
+#EXTINF:-1,USA: Amazing Discoveries HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19177.ts
+#EXTINF:-1,USA: AMC
+http://212.8.250.12:25461/live/Orestes/Orestes/19176.ts
+#EXTINF:-1,USA: AMC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19175.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://212.8.250.12:25461/live/Orestes/Orestes/19174.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19173.ts
+#EXTINF:-1,USA: ANN7
+http://212.8.250.12:25461/live/Orestes/Orestes/19172.ts
+#EXTINF:-1,USA: beIN SPORTS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19171.ts
+#EXTINF:-1,USA: BOX OFFICE MOVIES
+http://212.8.250.12:25461/live/Orestes/Orestes/19170.ts
+#EXTINF:-1,USA: BRAVO HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19169.ts
+#EXTINF:-1,USA: BYU TV
+http://212.8.250.12:25461/live/Orestes/Orestes/19168.ts
+#EXTINF:-1,USA: C-Span
+http://212.8.250.12:25461/live/Orestes/Orestes/19167.ts
+#EXTINF:-1,USA: C-Span 1
+http://212.8.250.12:25461/live/Orestes/Orestes/19166.ts
+#EXTINF:-1,USA: C-Span 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19165.ts
+#EXTINF:-1,USA: C-Span 3
+http://212.8.250.12:25461/live/Orestes/Orestes/19164.ts
+#EXTINF:-1,USA: CA | Sportsnet 360 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19163.ts
+#EXTINF:-1,USA: CA | TSN 1
+http://212.8.250.12:25461/live/Orestes/Orestes/19162.ts
+#EXTINF:-1,USA: CA | TSN 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19161.ts
+#EXTINF:-1,USA: CA | TSN 3
+http://212.8.250.12:25461/live/Orestes/Orestes/19160.ts
+#EXTINF:-1,USA: CA | TSN 4 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19159.ts
+#EXTINF:-1,USA: CA | TSN 5
+http://212.8.250.12:25461/live/Orestes/Orestes/19158.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://212.8.250.12:25461/live/Orestes/Orestes/19157.ts
+#EXTINF:-1,USA: CBS
+http://212.8.250.12:25461/live/Orestes/Orestes/19156.ts
+#EXTINF:-1,USA: CBS News
+http://212.8.250.12:25461/live/Orestes/Orestes/19155.ts
+#EXTINF:-1,USA: CBSN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19154.ts
+#EXTINF:-1,USA: cnbc
+http://212.8.250.12:25461/live/Orestes/Orestes/19153.ts
+#EXTINF:-1,USA: CNN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19152.ts
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19151.ts
+#EXTINF:-1,USA: CW
+http://212.8.250.12:25461/live/Orestes/Orestes/19150.ts
+#EXTINF:-1,USA: CW HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19149.ts
+#EXTINF:-1,USA: DISCCOVERY HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19148.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19147.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19146.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://212.8.250.12:25461/live/Orestes/Orestes/19145.ts
+#EXTINF:-1,USA: DW
+http://212.8.250.12:25461/live/Orestes/Orestes/19144.ts
+#EXTINF:-1,USA: E! Entertainment
+http://212.8.250.12:25461/live/Orestes/Orestes/19143.ts
+#EXTINF:-1,USA: ESPN
+http://212.8.250.12:25461/live/Orestes/Orestes/19142.ts
+#EXTINF:-1,USA: ESPN 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19141.ts
+#EXTINF:-1,USA: ESPN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19140.ts
+#EXTINF:-1,USA: Fight HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19139.ts
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://212.8.250.12:25461/live/Orestes/Orestes/19138.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://212.8.250.12:25461/live/Orestes/Orestes/19137.ts
+#EXTINF:-1,USA: Fight Sport 1
+http://212.8.250.12:25461/live/Orestes/Orestes/19136.ts
+#EXTINF:-1,USA: Fight Sport 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19135.ts
+#EXTINF:-1,USA: Food Network HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19134.ts
+#EXTINF:-1,USA: FOX 43
+http://212.8.250.12:25461/live/Orestes/Orestes/19133.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19132.ts
+#EXTINF:-1,USA: FOX NY
+http://212.8.250.12:25461/live/Orestes/Orestes/19131.ts
+#EXTINF:-1,USA: FOX SOCCER SUN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19130.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19129.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19128.ts
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://212.8.250.12:25461/live/Orestes/Orestes/19127.ts
+#EXTINF:-1,USA: HBO Comedy
+http://212.8.250.12:25461/live/Orestes/Orestes/19126.ts
+#EXTINF:-1,USA: HBO East
+http://212.8.250.12:25461/live/Orestes/Orestes/19125.ts
+#EXTINF:-1,USA: HBO Family HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19124.ts
+#EXTINF:-1,USA: HBO HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19123.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://212.8.250.12:25461/live/Orestes/Orestes/19122.ts
+#EXTINF:-1,USA: HBO Zone
+http://212.8.250.12:25461/live/Orestes/Orestes/19121.ts
+#EXTINF:-1,USA: HISTORY HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19120.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://212.8.250.12:25461/live/Orestes/Orestes/19119.ts
+#EXTINF:-1,USA: LIFE TIME
+http://212.8.250.12:25461/live/Orestes/Orestes/19118.ts
+#EXTINF:-1,USA: MBL HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19117.ts
+#EXTINF:-1,USA: MLB Network
+http://212.8.250.12:25461/live/Orestes/Orestes/19116.ts
+#EXTINF:-1,USA: MSNBC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19115.ts
+#EXTINF:-1,USA: NBA SD
+http://212.8.250.12:25461/live/Orestes/Orestes/19114.ts
+#EXTINF:-1,USA: NBA TV HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19113.ts
+#EXTINF:-1,USA: NBC Golf
+http://212.8.250.12:25461/live/Orestes/Orestes/19112.ts
+#EXTINF:-1,USA: NBCSN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19111.ts
+#EXTINF:-1,USA: Network (US)
+http://212.8.250.12:25461/live/Orestes/Orestes/19110.ts
+#EXTINF:-1,USA: NFL Network HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19109.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19108.ts
+#EXTINF:-1,USA: PAC-12 Arizona
+http://212.8.250.12:25461/live/Orestes/Orestes/19107.ts
+#EXTINF:-1,USA: PAC-12 Bay Area
+http://212.8.250.12:25461/live/Orestes/Orestes/19106.ts
+#EXTINF:-1,USA: PAC-12 Los Angeles
+http://212.8.250.12:25461/live/Orestes/Orestes/19105.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona)
+http://212.8.250.12:25461/live/Orestes/Orestes/19104.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area)
+http://212.8.250.12:25461/live/Orestes/Orestes/19103.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles)
+http://212.8.250.12:25461/live/Orestes/Orestes/19102.ts
+#EXTINF:-1,USA: PAC-12 Net. (Moutain)
+http://212.8.250.12:25461/live/Orestes/Orestes/19101.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon)
+http://212.8.250.12:25461/live/Orestes/Orestes/19100.ts
+#EXTINF:-1,USA: PAC-12 Network Live
+http://212.8.250.12:25461/live/Orestes/Orestes/19099.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://212.8.250.12:25461/live/Orestes/Orestes/19098.ts
+#EXTINF:-1,USA: PAC-12 Washington
+http://212.8.250.12:25461/live/Orestes/Orestes/19097.ts
+#EXTINF:-1,USA: Showtime 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19096.ts
+#EXTINF:-1,USA: SHOWTIME HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19095.ts
+#EXTINF:-1,USA: Showtime West
+http://212.8.250.12:25461/live/Orestes/Orestes/19094.ts
+#EXTINF:-1,USA: Starz Cinema
+http://212.8.250.12:25461/live/Orestes/Orestes/19093.ts
+#EXTINF:-1,USA: Starz Comedy
+http://212.8.250.12:25461/live/Orestes/Orestes/19092.ts
+#EXTINF:-1,USA: Starz East
+http://212.8.250.12:25461/live/Orestes/Orestes/19091.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19090.ts
+#EXTINF:-1,USA: Starz Encore East
+http://212.8.250.12:25461/live/Orestes/Orestes/19089.ts
+#EXTINF:-1,USA: Starz Encore HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19088.ts
+#EXTINF:-1,USA: Starz West
+http://212.8.250.12:25461/live/Orestes/Orestes/19087.ts
+#EXTINF:-1,USA: TBS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19086.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19085.ts
+#EXTINF:-1,USA: TLC HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19084.ts
+#EXTINF:-1,USA: TNT HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19083.ts
+#EXTINF:-1,USA: WGN News TV
+http://212.8.250.12:25461/live/Orestes/Orestes/19082.ts
+#EXTINF:-1,USA: WWE
+http://212.8.250.12:25461/live/Orestes/Orestes/19081.ts
+#EXTINF:-1,USA: WWE HD
+http://212.8.250.12:25461/live/Orestes/Orestes/19080.ts
+#EXTINF:-1,USA/CA: TSN 1*
+http://212.8.250.12:25461/live/Orestes/Orestes/19079.ts
+#EXTINF:-1,USA/CA: TSN 2
+http://212.8.250.12:25461/live/Orestes/Orestes/19078.ts
+#EXTINF:-1,USA/CA: TSN 3*
+http://212.8.250.12:25461/live/Orestes/Orestes/19077.ts
+#EXTINF:-1,USA/CA: TSN 4
+http://212.8.250.12:25461/live/Orestes/Orestes/19076.ts
+#EXTINF:-1,USA/CA: TSN 5*
+http://212.8.250.12:25461/live/Orestes/Orestes/19075.ts
+#EXTINF:-1,UK:  Good Food
+http://212.8.250.12:25461/live/Orestes/Orestes/14820.ts
+#EXTINF:-1,UK: 3e
+http://212.8.250.12:25461/live/Orestes/Orestes/14935.ts
+#EXTINF:-1,UK: 4Music
+http://212.8.250.12:25461/live/Orestes/Orestes/14777.ts
+#EXTINF:-1,UK: 4Seven
+http://212.8.250.12:25461/live/Orestes/Orestes/15014.ts
+#EXTINF:-1,UK: 5Star
+http://212.8.250.12:25461/live/Orestes/Orestes/14936.ts
+#EXTINF:-1,UK: 5USA
+http://212.8.250.12:25461/live/Orestes/Orestes/14929.ts
+#EXTINF:-1,UK: Alibi
+http://212.8.250.12:25461/live/Orestes/Orestes/14937.ts
+#EXTINF:-1,UK: Amc
+http://212.8.250.12:25461/live/Orestes/Orestes/14772.ts
+#EXTINF:-1,UK: AMC FROM BT
+http://212.8.250.12:25461/live/Orestes/Orestes/14927.ts
+#EXTINF:-1,UK: Animal Planet   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14938.ts
+#EXTINF:-1,UK: At The Races
+http://212.8.250.12:25461/live/Orestes/Orestes/14939.ts
+#EXTINF:-1,UK: Baby TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14791.ts
+#EXTINF:-1,UK: BBC 3 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/14753.ts
+#EXTINF:-1,UK: BBC ALBA
+http://212.8.250.12:25461/live/Orestes/Orestes/14926.ts
+#EXTINF:-1,UK: BBC EARTH HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14789.ts
+#EXTINF:-1,UK: BBC News HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14782.ts
+#EXTINF:-1,UK: BBC ONE SD
+http://212.8.250.12:25461/live/Orestes/Orestes/14765.ts
+#EXTINF:-1,UK: BBC Parliament
+http://212.8.250.12:25461/live/Orestes/Orestes/14925.ts
+#EXTINF:-1,UK: BBC Three HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14793.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14940.ts
+#EXTINF:-1,UK: BBC World News
+http://212.8.250.12:25461/live/Orestes/Orestes/15015.ts
+#EXTINF:-1,UK: BBC4 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14941.ts
+#EXTINF:-1,UK: BET
+http://212.8.250.12:25461/live/Orestes/Orestes/14924.ts
+#EXTINF:-1,UK: Boomerang
+http://212.8.250.12:25461/live/Orestes/Orestes/14797.ts
+#EXTINF:-1,UK: Box hits
+http://212.8.250.12:25461/live/Orestes/Orestes/14776.ts
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://212.8.250.12:25461/live/Orestes/Orestes/14769.ts
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://212.8.250.12:25461/live/Orestes/Orestes/14768.ts
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://212.8.250.12:25461/live/Orestes/Orestes/14767.ts
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://212.8.250.12:25461/live/Orestes/Orestes/14766.ts
+#EXTINF:-1,UK: BritishMuslim
+http://212.8.250.12:25461/live/Orestes/Orestes/14923.ts
+#EXTINF:-1,UK: BT Sport 1 backup
+http://212.8.250.12:25461/live/Orestes/Orestes/14764.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14933.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://212.8.250.12:25461/live/Orestes/Orestes/14942.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://212.8.250.12:25461/live/Orestes/Orestes/14801.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://212.8.250.12:25461/live/Orestes/Orestes/14943.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://212.8.250.12:25461/live/Orestes/Orestes/14944.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://212.8.250.12:25461/live/Orestes/Orestes/14945.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://212.8.250.12:25461/live/Orestes/Orestes/14946.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://212.8.250.12:25461/live/Orestes/Orestes/14947.ts
+#EXTINF:-1,UK: BT Sport Mosaic
+http://212.8.250.12:25461/live/Orestes/Orestes/14948.ts
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://212.8.250.12:25461/live/Orestes/Orestes/14949.ts
+#EXTINF:-1,UK: BT Sports 2 SD
+http://212.8.250.12:25461/live/Orestes/Orestes/14950.ts
+#EXTINF:-1,UK: Capital TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14748.ts
+#EXTINF:-1,UK: Cartoon Network
+http://212.8.250.12:25461/live/Orestes/Orestes/14951.ts
+#EXTINF:-1,UK: Cartoonito
+http://212.8.250.12:25461/live/Orestes/Orestes/14884.ts
+#EXTINF:-1,UK: CBBC
+http://212.8.250.12:25461/live/Orestes/Orestes/14794.ts
+#EXTINF:-1,UK: Cbeebies
+http://212.8.250.12:25461/live/Orestes/Orestes/14874.ts
+#EXTINF:-1,UK: CBS reality
+http://212.8.250.12:25461/live/Orestes/Orestes/14805.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://212.8.250.12:25461/live/Orestes/Orestes/14743.ts
+#EXTINF:-1,UK: Challenge   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14952.ts
+#EXTINF:-1,UK: Channel 4
+http://212.8.250.12:25461/live/Orestes/Orestes/14922.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14921.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://212.8.250.12:25461/live/Orestes/Orestes/14920.ts
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/14919.ts
+#EXTINF:-1,UK: Channel AKA
+http://212.8.250.12:25461/live/Orestes/Orestes/14775.ts
+#EXTINF:-1,UK: Chelsea FC
+http://212.8.250.12:25461/live/Orestes/Orestes/14953.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14790.ts
+#EXTINF:-1,UK: Citv
+http://212.8.250.12:25461/live/Orestes/Orestes/14737.ts
+#EXTINF:-1,UK: Clubland
+http://212.8.250.12:25461/live/Orestes/Orestes/14736.ts
+#EXTINF:-1,UK: CNBC Europe
+http://212.8.250.12:25461/live/Orestes/Orestes/14918.ts
+#EXTINF:-1,UK: CNN FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/14747.ts
+#EXTINF:-1,UK: Comedy Central Extra   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14954.ts
+#EXTINF:-1,UK: Crime & Investigiation
+http://212.8.250.12:25461/live/Orestes/Orestes/14932.ts
+#EXTINF:-1,UK: Crime investigation  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14955.ts
+#EXTINF:-1,UK: DISCOVERY
+http://212.8.250.12:25461/live/Orestes/Orestes/14806.ts
+#EXTINF:-1,UK: Discovery   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14956.ts
+#EXTINF:-1,UK: Discovery History
+http://212.8.250.12:25461/live/Orestes/Orestes/14807.ts
+#EXTINF:-1,UK: Discovery History  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14957.ts
+#EXTINF:-1,UK: Discovery Science
+http://212.8.250.12:25461/live/Orestes/Orestes/14808.ts
+#EXTINF:-1,UK: Discovery Science  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14958.ts
+#EXTINF:-1,UK: Discovery Shed
+http://212.8.250.12:25461/live/Orestes/Orestes/14809.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://212.8.250.12:25461/live/Orestes/Orestes/14810.ts
+#EXTINF:-1,UK: Disney
+http://212.8.250.12:25461/live/Orestes/Orestes/14811.ts
+#EXTINF:-1,UK: Disney Channel   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14959.ts
+#EXTINF:-1,UK: Disney XD
+http://212.8.250.12:25461/live/Orestes/Orestes/14813.ts
+#EXTINF:-1,UK: Disney XD   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14960.ts
+#EXTINF:-1,UK: E!
+http://212.8.250.12:25461/live/Orestes/Orestes/14961.ts
+#EXTINF:-1,UK: E!    1
+http://212.8.250.12:25461/live/Orestes/Orestes/14962.ts
+#EXTINF:-1,UK: Eir Sports1
+http://212.8.250.12:25461/live/Orestes/Orestes/14963.ts
+#EXTINF:-1,UK: Eir Sports2
+http://212.8.250.12:25461/live/Orestes/Orestes/14964.ts
+#EXTINF:-1,UK: Euronews
+http://212.8.250.12:25461/live/Orestes/Orestes/14762.ts
+#EXTINF:-1,UK: Eurosport 1
+http://212.8.250.12:25461/live/Orestes/Orestes/14965.ts
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14740.ts
+#EXTINF:-1,UK: Eurosport 2
+http://212.8.250.12:25461/live/Orestes/Orestes/14966.ts
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14741.ts
+#EXTINF:-1,UK: Film 4
+http://212.8.250.12:25461/live/Orestes/Orestes/14818.ts
+#EXTINF:-1,UK: Food Network
+http://212.8.250.12:25461/live/Orestes/Orestes/14967.ts
+#EXTINF:-1,UK: Food Network  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14968.ts
+#EXTINF:-1,UK: FOX News
+http://212.8.250.12:25461/live/Orestes/Orestes/14917.ts
+#EXTINF:-1,UK: gold
+http://212.8.250.12:25461/live/Orestes/Orestes/14819.ts
+#EXTINF:-1,UK: Golf Channel
+http://212.8.250.12:25461/live/Orestes/Orestes/14885.ts
+#EXTINF:-1,UK: Good Food
+http://212.8.250.12:25461/live/Orestes/Orestes/14969.ts
+#EXTINF:-1,UK: H2
+http://212.8.250.12:25461/live/Orestes/Orestes/14867.ts
+#EXTINF:-1,UK: HBO 1
+http://212.8.250.12:25461/live/Orestes/Orestes/15016.ts
+#EXTINF:-1,UK: HBO 2
+http://212.8.250.12:25461/live/Orestes/Orestes/15017.ts
+#EXTINF:-1,UK: Heart TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14738.ts
+#EXTINF:-1,UK: History
+http://212.8.250.12:25461/live/Orestes/Orestes/14873.ts
+#EXTINF:-1,UK: History  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14970.ts
+#EXTINF:-1,UK: Home&Health   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14971.ts
+#EXTINF:-1,UK: Horror Channel
+http://212.8.250.12:25461/live/Orestes/Orestes/14781.ts
+#EXTINF:-1,UK: Horror Channel   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14972.ts
+#EXTINF:-1,UK: ID
+http://212.8.250.12:25461/live/Orestes/Orestes/14934.ts
+#EXTINF:-1,UK: ID   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14973.ts
+#EXTINF:-1,UK: Inspiration
+http://212.8.250.12:25461/live/Orestes/Orestes/14916.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://212.8.250.12:25461/live/Orestes/Orestes/14915.ts
+#EXTINF:-1,UK: Islam Channel
+http://212.8.250.12:25461/live/Orestes/Orestes/14771.ts
+#EXTINF:-1,UK: ITV  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14761.ts
+#EXTINF:-1,UK: ITV 2 FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/14746.ts
+#EXTINF:-1,UK: ITV 3 FHD 1080
+http://212.8.250.12:25461/live/Orestes/Orestes/14745.ts
+#EXTINF:-1,UK: ITV 4 FHD 1080
+http://212.8.250.12:25461/live/Orestes/Orestes/14744.ts
+#EXTINF:-1,UK: ITV be
+http://212.8.250.12:25461/live/Orestes/Orestes/14823.ts
+#EXTINF:-1,UK: ITV BOX OFFICE PPV
+http://212.8.250.12:25461/live/Orestes/Orestes/14773.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://212.8.250.12:25461/live/Orestes/Orestes/14914.ts
+#EXTINF:-1,UK: ITV1
+http://212.8.250.12:25461/live/Orestes/Orestes/14974.ts
+#EXTINF:-1,UK: ITV2
+http://212.8.250.12:25461/live/Orestes/Orestes/14975.ts
+#EXTINF:-1,UK: ITV2  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14760.ts
+#EXTINF:-1,UK: ITV3
+http://212.8.250.12:25461/live/Orestes/Orestes/14976.ts
+#EXTINF:-1,UK: ITV3   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14759.ts
+#EXTINF:-1,UK: ITV4
+http://212.8.250.12:25461/live/Orestes/Orestes/14977.ts
+#EXTINF:-1,UK: ITV4  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14758.ts
+#EXTINF:-1,UK: KERRANG
+http://212.8.250.12:25461/live/Orestes/Orestes/14913.ts
+#EXTINF:-1,UK: KISS UK
+http://212.8.250.12:25461/live/Orestes/Orestes/14912.ts
+#EXTINF:-1,UK: LFC TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14978.ts
+#EXTINF:-1,UK: LFC TV HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14752.ts
+#EXTINF:-1,UK: Magic
+http://212.8.250.12:25461/live/Orestes/Orestes/14872.ts
+#EXTINF:-1,UK: Manchester United TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14854.ts
+#EXTINF:-1,UK: Mototrs TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14856.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://212.8.250.12:25461/live/Orestes/Orestes/14911.ts
+#EXTINF:-1,UK: MTV
+http://212.8.250.12:25461/live/Orestes/Orestes/14871.ts
+#EXTINF:-1,UK: MTV   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14979.ts
+#EXTINF:-1,UK: MTV Base HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14778.ts
+#EXTINF:-1,UK: MTV Music
+http://212.8.250.12:25461/live/Orestes/Orestes/14788.ts
+#EXTINF:-1,UK: MTV Rocks
+http://212.8.250.12:25461/live/Orestes/Orestes/14734.ts
+#EXTINF:-1,UK: Music Vox TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14735.ts
+#EXTINF:-1,UK: MUTV
+http://212.8.250.12:25461/live/Orestes/Orestes/14980.ts
+#EXTINF:-1,UK: MUTV Backup
+http://212.8.250.12:25461/live/Orestes/Orestes/14742.ts
+#EXTINF:-1,UK: MUTV FHD
+http://212.8.250.12:25461/live/Orestes/Orestes/14751.ts
+#EXTINF:-1,UK: Nat Geo Graphic
+http://212.8.250.12:25461/live/Orestes/Orestes/14857.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://212.8.250.12:25461/live/Orestes/Orestes/14981.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://212.8.250.12:25461/live/Orestes/Orestes/14866.ts
+#EXTINF:-1,UK: National Geographic
+http://212.8.250.12:25461/live/Orestes/Orestes/14868.ts
+#EXTINF:-1,UK: Nick Jr
+http://212.8.250.12:25461/live/Orestes/Orestes/14825.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14983.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://212.8.250.12:25461/live/Orestes/Orestes/14982.ts
+#EXTINF:-1,UK: Nickelodeon
+http://212.8.250.12:25461/live/Orestes/Orestes/14984.ts
+#EXTINF:-1,UK: Nickelodeon   1
+http://212.8.250.12:25461/live/Orestes/Orestes/14985.ts
+#EXTINF:-1,UK: PBS America
+http://212.8.250.12:25461/live/Orestes/Orestes/14787.ts
+#EXTINF:-1,UK: Peace TV
+http://212.8.250.12:25461/live/Orestes/Orestes/14770.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14930.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14986.ts
+#EXTINF:-1,UK: QUEST
+http://212.8.250.12:25461/live/Orestes/Orestes/14910.ts
+#EXTINF:-1,UK: Racing UK
+http://212.8.250.12:25461/live/Orestes/Orestes/14987.ts
+#EXTINF:-1,UK: RANGERS FC TV (matchtime)
+http://212.8.250.12:25461/live/Orestes/Orestes/14739.ts
+#EXTINF:-1,UK: Real Lives
+http://212.8.250.12:25461/live/Orestes/Orestes/14909.ts
+#EXTINF:-1,UK: RT NEW
+http://212.8.250.12:25461/live/Orestes/Orestes/14783.ts
+#EXTINF:-1,UK: RTE JUNIOR
+http://212.8.250.12:25461/live/Orestes/Orestes/14757.ts
+#EXTINF:-1,UK: RTE News Now
+http://212.8.250.12:25461/live/Orestes/Orestes/14756.ts
+#EXTINF:-1,UK: RTE One
+http://212.8.250.12:25461/live/Orestes/Orestes/14988.ts
+#EXTINF:-1,UK: RTE Two
+http://212.8.250.12:25461/live/Orestes/Orestes/14989.ts
+#EXTINF:-1,UK: S4C
+http://212.8.250.12:25461/live/Orestes/Orestes/14786.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://212.8.250.12:25461/live/Orestes/Orestes/14990.ts
+#EXTINF:-1,UK: Scuzz
+http://212.8.250.12:25461/live/Orestes/Orestes/14870.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://212.8.250.12:25461/live/Orestes/Orestes/14991.ts
+#EXTINF:-1,UK: Sky Atlantic  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14992.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14859.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14883.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14882.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14881.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14880.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14879.ts
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14878.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://212.8.250.12:25461/live/Orestes/Orestes/14763.ts
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14877.ts
+#EXTINF:-1,UK: Sky Cinema Premiere  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14993.ts
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14876.ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14875.ts
+#EXTINF:-1,UK: Sky Living  1
+http://212.8.250.12:25461/live/Orestes/Orestes/14994.ts
+#EXTINF:-1,UK: Sky Movie Sci-Fi
+http://212.8.250.12:25461/live/Orestes/Orestes/14827.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://212.8.250.12:25461/live/Orestes/Orestes/14830.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://212.8.250.12:25461/live/Orestes/Orestes/14832.ts
+#EXTINF:-1,UK: Sky Movies Modern
+http://212.8.250.12:25461/live/Orestes/Orestes/15018.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://212.8.250.12:25461/live/Orestes/Orestes/14833.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14995.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://212.8.250.12:25461/live/Orestes/Orestes/14834.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://212.8.250.12:25461/live/Orestes/Orestes/14835.ts
+#EXTINF:-1,UK: SKY NEWS
+http://212.8.250.12:25461/live/Orestes/Orestes/14908.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14902.ts
+#EXTINF:-1,UK: SKY One
+http://212.8.250.12:25461/live/Orestes/Orestes/14861.ts
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14774.ts
+#EXTINF:-1,UK: Sky Sport Football HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14800.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION
+http://212.8.250.12:25461/live/Orestes/Orestes/14998.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14837.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://212.8.250.12:25461/live/Orestes/Orestes/14997.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14836.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://212.8.250.12:25461/live/Orestes/Orestes/14999.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://212.8.250.12:25461/live/Orestes/Orestes/14838.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://212.8.250.12:25461/live/Orestes/Orestes/14996.ts
